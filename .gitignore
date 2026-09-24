@@ -203,6 +203,9 @@ cython_debug/
 # Temporary file for partial code execution
 tempCodeRunnerFile.py
 
+# Vendor firmware and generated images are not redistributed.
+*.IMG
+
 # Ruff stuff:
 .ruff_cache/
 
